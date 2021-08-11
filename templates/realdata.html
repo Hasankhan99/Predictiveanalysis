@@ -1,0 +1,114 @@
+{% extends 'Predictivemaster.html' %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block body %}
+
+<div id="my-modal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="my-modal-title" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <form action="{% url 'importstoresTS' %}" method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="my-modal-title">Select Stores file (.csv)</h5>
+                    <button class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <input type="file" id="id_storefile" name="misdata" class="btn btn-primary">
+                </div>
+                <div class="modal-footer">
+                    <input type="submit" value="Upload Data" class="btn btn-primary">
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<span><a href="{% url 'exportstoresTS' %}">Export All Stores</a></span> |
+<span><a href="{% url 'importstoresTS' %}" onclick="event.preventDefault();"  data-toggle="modal" data-target="#my-modal">Import All Stores</a></span>
+
+
+                
+
+<button id="myDIV" class="btn btn-primary">Add Data</button>
+<div >
+    <form action="" method="post" class="from" style="display: none;">
+        {% csrf_token %}
+        <div class="row">
+            <div class="col-2">
+            {{form.Market_Name|as_crispy_field}}
+            </div>
+            <div class="col-2">
+                {{form.Store_Name|as_crispy_field}}
+            </div>
+            <div class="col-2">
+                {{form.Store_uid|as_crispy_field}}
+            </div>
+            <div class="col-2">
+                {{form.totalcount|as_crispy_field}}
+            </div>
+            <div class="col-2">
+                {{form.date|as_crispy_field}}
+            </div>
+            <div class="col-3">
+                <input type="submit" value="Submit" class="btn btn-primary">
+            </div>
+        </div>
+        <hr>
+    </form>
+
+</div>
+
+
+
+{% for message in messages %}
+<div class="alert alert-{{message.tags}}">{{message.message}}</div>
+{% endfor %}
+
+<table id="example" class="display" style="width:100%">
+    <thead>
+        <tr>
+            <th>Market</th>
+            <th>Store</th>
+            <th>UID</th>
+            <th>Date</th>
+            <th>Total Count</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for data in mis %}
+        <tr>    
+            <td>{{data.Market_Name}}</td>
+            <td>{{data.Store_Name}}</td>
+            <td>{{data.Store_uid}}</td>
+            <td>{{data.totalcount}}</td>
+            <td>{{data.date}}</td>
+            <td>
+                    <a href="{% url 'update_misdata' pk=data.id %}">Edit</a> | 
+                    <a href="{% url 'delete_misdata' pk=data.id %}">Delete</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+    <tfoot>
+        
+    </table>
+<div>
+    <button class="btn btn-danger" onclick="alert('Are you Sure to delet all data?')" ><a href="{% url 'delete_all_mis_data' %}">Delete All Data</a></button>
+</div>
+
+<script>
+$(document).ready(function(){
+
+    // alert()
+ $("#myDIV").click(function(){
+  $(".from").toggle(300).display(false);
+});
+})
+
+
+</script>
+{% endblock %}

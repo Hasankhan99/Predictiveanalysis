@@ -1,0 +1,180 @@
+{% extends 'Predictivemaster.html' %}
+{% load static %}
+{% block css %}
+<style>
+    <style>
+		canvas{
+			-moz-user-select: none;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+		}
+		/* .chart-container {
+			width: 500px;
+			margin-left: 40px;
+			margin-right: 40px;
+			margin-bottom: 40px;
+		} */
+		/* .container {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: center;
+		} */
+        img{
+            width: 100px;
+    height: 100px;
+    text-align: center;
+        }
+	</style>
+</style>
+{% endblock %}
+{% block body %}
+<div class="row">
+    
+    <div class="col-xl-12">
+        <div class="card mb-4">
+            <div class="card-header">
+                <i class="fas fa-chart-bar mr-1"></i>
+                Store Traffic Prediction
+            </div>
+            <div class="card-body">
+                
+                    <div class="containers row">
+                        <div class="col-12 offset-5 loaderdiv">
+                            <img src="{% static 'load.gif' %}" alt="">
+                            <p>Loading Data ...</p>
+                        </div>
+                    </div>
+               
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% endblock %}
+
+{% block js %}
+<script>
+
+var label = [];
+var dataU = [];
+var dataL = [];
+var dataE = [];
+    getChart();
+
+   
+
+    function getChart(){
+        function createConfig(title, label,dataU, dataL, dataE) {
+            console.log(dataE)
+        return {
+            type: 'line',
+            data: {
+                labels: label,
+                datasets: [{
+                    label: 'Expected Traffic',
+                    backgroundColor: window.chartColors.green,
+                    borderColor: window.chartColors.green,
+                    data: dataU,
+                    fill: false,
+                }, {
+                    label: 'Minimum Traffic',
+                    backgroundColor: window.chartColors.red,
+                    borderColor: window.chartColors.red,
+                    data: dataL,
+                    fill: false,
+                },{
+                    label: 'Maximum Traffic',
+                    backgroundColor: window.chartColors.blue,
+                    borderColor: window.chartColors.blue,
+                   
+                    data: dataE,
+                    fill: false,
+                }]
+            },
+            options: {
+                responsive: true,
+                title: {
+                    display: true,
+                    text: title
+                },
+                scales: {
+                    xAxes: [{
+                        gridLines: {
+                            display: true,
+                            drawBorder: true,
+                            drawOnChartArea: true,
+                        }
+                    }],
+                    yAxes: [{
+                        gridLines: {
+                            display: true,
+                            drawBorder: true,
+                            drawOnChartArea: true,
+                        },
+                        ticks: {
+                            min: -50,
+                            max: 60,
+                            stepSize: 10
+                        }
+                    }]
+                }
+            }
+        };
+        console.log('----------------woking----------')
+        // label.splice(0, label.length);
+        // dataU.splice(0, dataU.length);
+        // dataL.splice(0, dataL.length);
+        // dataE.splice(0, dataE.length);
+    }
+
+    
+        var container = document.querySelector('.containers');
+        $(document).ready(function(){
+            
+        setTimeout(function(){
+            $.ajax({
+                
+                    url: '{% url "allstorepredictionChart" %}',
+                    type: 'GET',
+                    success: function (data) {
+                        $('.loaderdiv').hide();
+                        $.each(data.data, function(i, item){
+
+                            var div = document.createElement('div');
+                            // div.classList.add('chart-container');
+                            div.classList.add('col-6');
+
+                            var canvas = document.createElement('canvas');
+                            div.appendChild(canvas);
+                            container.appendChild(div);
+
+                            var ctx = canvas.getContext('2d');
+
+                            $.each(item.storedata, function(j, itemsData){                                
+                                label.push(itemsData.date)
+                                dataU.push(parseInt(itemsData.upper_count))
+                                dataL.push(parseInt(itemsData.lower_count))
+                                dataE.push(parseInt(itemsData.expected_Count))
+                            })
+                           
+                            var config = createConfig(item.storename,label,dataU, dataL, dataE);
+                            label = [];
+                            dataU = [];
+                            dataL = [];
+                            dataE = [];
+                            new Chart(ctx, config);
+
+
+                        })
+                    }
+                })
+            }, 1000)
+        });
+    
+    }
+
+   
+</script>
+{% endblock %}

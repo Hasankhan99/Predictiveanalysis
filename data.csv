@@ -1,0 +1,751 @@
+Location,Date,Daily Traffic Count
+2nd Ave,3/1/2021,44
+2nd Ave,3/2/2021,45
+2nd Ave,3/3/2021,27
+2nd Ave,3/4/2021,20
+2nd Ave,3/5/2021,35
+2nd Ave,3/6/2021,38
+2nd Ave,3/7/2021,25
+2nd Ave,3/8/2021,22
+2nd Ave,3/9/2021,19
+2nd Ave,3/10/2021,22
+65th Street,3/1/2021,13
+65th Street,3/2/2021,16
+65th Street,3/3/2021,40
+65th Street,3/4/2021,19
+65th Street,3/5/2021,13
+65th Street,3/6/2021,11
+65th Street,3/7/2021,21
+65th Street,3/8/2021,11
+65th Street,3/9/2021,19
+65th Street,3/10/2021,17
+Algonquin Rd,3/1/2021,24
+Algonquin Rd,3/2/2021,30
+Algonquin Rd,3/3/2021,25
+Algonquin Rd,3/4/2021,22
+Algonquin Rd,3/5/2021,29
+Algonquin Rd,3/6/2021,24
+Algonquin Rd,3/7/2021,18
+Algonquin Rd,3/8/2021,22
+Algonquin Rd,3/9/2021,21
+Algonquin Rd,3/10/2021,16
+Archer,3/1/2021,42
+Archer,3/2/2021,42
+Archer,3/3/2021,29
+Archer,3/4/2021,32
+Archer,3/5/2021,37
+Archer,3/6/2021,34
+Archer,3/7/2021,16
+Archer,3/8/2021,42
+Archer,3/9/2021,26
+Archer,3/10/2021,25
+Barberton,3/1/2021,11
+Barberton,3/2/2021,28
+Barberton,3/3/2021,15
+Barberton,3/4/2021,7
+Barberton,3/5/2021,6
+Barberton,3/6/2021,6
+Barberton,3/7/2021,7
+Barberton,3/8/2021,6
+Barberton,3/9/2021,11
+Barberton,3/10/2021,15
+Bluefield,3/1/2021,32
+Bluefield,3/2/2021,31
+Bluefield,3/3/2021,45
+Bluefield,3/4/2021,22
+Bluefield,3/5/2021,27
+Bluefield,3/6/2021,29
+Bluefield,3/7/2021,6
+Bluefield,3/8/2021,14
+Bluefield,3/9/2021,9
+Bluefield,3/10/2021,15
+Bristol,3/1/2021,24
+Bristol,3/2/2021,34
+Bristol,3/3/2021,32
+Bristol,3/4/2021,17
+Bristol,3/5/2021,18
+Bristol,3/6/2021,25
+Bristol,3/7/2021,4
+Bristol,3/8/2021,16
+Bristol,3/9/2021,13
+Bristol,3/10/2021,9
+Copley,3/1/2021,12
+Copley,3/2/2021,8
+Copley,3/3/2021,10
+Copley,3/4/2021,12
+Copley,3/5/2021,6
+Copley,3/6/2021,8
+Copley,3/7/2021,4
+Copley,3/8/2021,2
+Copley,3/9/2021,13
+Copley,3/10/2021,6
+Cranston,3/1/2021,29
+Cranston,3/2/2021,13
+Cranston,3/3/2021,16
+Cranston,3/4/2021,0
+Cranston,3/5/2021,19
+Cranston,3/6/2021,10
+Cranston,3/7/2021,5
+Cranston,3/8/2021,10
+Cranston,3/9/2021,17
+Cranston,3/10/2021,15
+Crest Hill,3/1/2021,23
+Crest Hill,3/2/2021,14
+Crest Hill,3/3/2021,10
+Crest Hill,3/4/2021,18
+Crest Hill,3/5/2021,15
+Crest Hill,3/6/2021,16
+Crest Hill,3/7/2021,7
+Crest Hill,3/8/2021,13
+Crest Hill,3/9/2021,15
+Crest Hill,3/10/2021,11
+Cromer,3/1/2021,36
+Cromer,3/2/2021,28
+Cromer,3/3/2021,29
+Cromer,3/4/2021,11
+Cromer,3/5/2021,18
+Cromer,3/6/2021,13
+Cromer,3/7/2021,5
+Cromer,3/8/2021,26
+Cromer,3/9/2021,23
+Cromer,3/10/2021,11
+Dover,3/1/2021,22
+Dover,3/2/2021,30
+Dover,3/3/2021,22
+Dover,3/4/2021,27
+Dover,3/5/2021,19
+Dover,3/6/2021,26
+Dover,3/7/2021,11
+Dover,3/8/2021,22
+Dover,3/9/2021,13
+Dover,3/10/2021,10
+Dudley Farms,3/1/2021,11
+Dudley Farms,3/2/2021,12
+Dudley Farms,3/3/2021,8
+Dudley Farms,3/4/2021,2
+Dudley Farms,3/5/2021,7
+Dudley Farms,3/6/2021,19
+Dudley Farms,3/7/2021,7
+Dudley Farms,3/8/2021,0
+Dudley Farms,3/9/2021,1
+Dudley Farms,3/10/2021,3
+DuPont,3/1/2021,26
+DuPont,3/2/2021,21
+DuPont,3/3/2021,24
+DuPont,3/4/2021,33
+DuPont,3/5/2021,32
+DuPont,3/6/2021,26
+DuPont,3/7/2021,20
+DuPont,3/8/2021,25
+DuPont,3/9/2021,18
+DuPont,3/10/2021,28
+Durham,3/1/2021,40
+Durham,3/2/2021,13
+Durham,3/3/2021,31
+Durham,3/4/2021,20
+Durham,3/5/2021,38
+Durham,3/6/2021,27
+Durham,3/7/2021,22
+Durham,3/8/2021,23
+Durham,3/9/2021,19
+Durham,3/10/2021,24
+E Rancier,3/1/2021,44
+E Rancier,3/2/2021,39
+E Rancier,3/3/2021,44
+E Rancier,3/4/2021,43
+E Rancier,3/5/2021,33
+E Rancier,3/6/2021,25
+E Rancier,3/7/2021,24
+E Rancier,3/8/2021,25
+E Rancier,3/9/2021,8
+E Rancier,3/10/2021,26
+Edinburg,3/1/2021,16
+Edinburg,3/2/2021,20
+Edinburg,3/3/2021,23
+Edinburg,3/4/2021,24
+Edinburg,3/5/2021,18
+Edinburg,3/6/2021,18
+Edinburg,3/7/2021,10
+Edinburg,3/8/2021,19
+Edinburg,3/9/2021,23
+Edinburg,3/10/2021,18
+Edwin Miller,3/1/2021,16
+Edwin Miller,3/2/2021,5
+Edwin Miller,3/3/2021,9
+Edwin Miller,3/4/2021,17
+Edwin Miller,3/5/2021,10
+Edwin Miller,3/6/2021,3
+Edwin Miller,3/7/2021,4
+Edwin Miller,3/8/2021,5
+Edwin Miller,3/9/2021,1
+Edwin Miller,3/10/2021,2
+F st,3/1/2021,35
+F st,3/2/2021,22
+F st,3/3/2021,33
+F st,3/4/2021,27
+F st,3/5/2021,24
+F st,3/6/2021,19
+F st,3/7/2021,13
+F st,3/8/2021,24
+F st,3/9/2021,22
+F st,3/10/2021,29
+Fairmont,3/1/2021,32
+Fairmont,3/2/2021,23
+Fairmont,3/3/2021,26
+Fairmont,3/4/2021,16
+Fairmont,3/5/2021,16
+Fairmont,3/6/2021,7
+Fairmont,3/7/2021,5
+Fairmont,3/8/2021,18
+Fairmont,3/9/2021,5
+Fairmont,3/10/2021,9
+Franklin Park,3/1/2021,4
+Franklin Park,3/2/2021,8
+Franklin Park,3/3/2021,6
+Franklin Park,3/4/2021,7
+Franklin Park,3/5/2021,7
+Franklin Park,3/6/2021,9
+Franklin Park,3/7/2021,0
+Franklin Park,3/8/2021,9
+Franklin Park,3/9/2021,9
+Franklin Park,3/10/2021,7
+Fruitland,3/1/2021,20
+Fruitland,3/2/2021,16
+Fruitland,3/3/2021,19
+Fruitland,3/4/2021,14
+Fruitland,3/5/2021,14
+Fruitland,3/6/2021,30
+Fruitland,3/7/2021,22
+Fruitland,3/8/2021,12
+Fruitland,3/9/2021,14
+Fruitland,3/10/2021,20
+Gatesville,3/1/2021,35
+Gatesville,3/2/2021,35
+Gatesville,3/3/2021,37
+Gatesville,3/4/2021,29
+Gatesville,3/5/2021,24
+Gatesville,3/6/2021,22
+Gatesville,3/7/2021,22
+Gatesville,3/8/2021,19
+Gatesville,3/9/2021,17
+Gatesville,3/10/2021,18
+Georgetown,3/1/2021,57
+Georgetown,3/2/2021,29
+Georgetown,3/3/2021,34
+Georgetown,3/4/2021,21
+Georgetown,3/5/2021,30
+Georgetown,3/6/2021,44
+Georgetown,3/7/2021,36
+Georgetown,3/8/2021,33
+Georgetown,3/9/2021,32
+Georgetown,3/10/2021,24
+Gessner,3/1/2021,33
+Gessner,3/2/2021,39
+Gessner,3/3/2021,34
+Gessner,3/4/2021,29
+Gessner,3/5/2021,14
+Gessner,3/6/2021,54
+Gessner,3/7/2021,32
+Gessner,3/8/2021,35
+Gessner,3/9/2021,31
+Gessner,3/10/2021,23
+Grand Ave,3/1/2021,23
+Grand Ave,3/2/2021,15
+Grand Ave,3/3/2021,27
+Grand Ave,3/4/2021,26
+Grand Ave,3/5/2021,14
+Grand Ave,3/6/2021,15
+Grand Ave,3/7/2021,11
+Grand Ave,3/8/2021,12
+Grand Ave,3/9/2021,19
+Grand Ave,3/10/2021,17
+Hamden,3/1/2021,26
+Hamden,3/2/2021,22
+Hamden,3/3/2021,26
+Hamden,3/4/2021,25
+Hamden,3/5/2021,30
+Hamden,3/6/2021,26
+Hamden,3/7/2021,9
+Hamden,3/8/2021,19
+Hamden,3/9/2021,21
+Hamden,3/10/2021,32
+Hanson,3/1/2021,27
+Hanson,3/2/2021,24
+Hanson,3/3/2021,39
+Hanson,3/4/2021,26
+Hanson,3/5/2021,30
+Hanson,3/6/2021,30
+Hanson,3/7/2021,11
+Hanson,3/8/2021,24
+Hanson,3/9/2021,21
+Hanson,3/10/2021,17
+Heber Springs,3/1/2021,30
+Heber Springs,3/2/2021,28
+Heber Springs,3/3/2021,33
+Heber Springs,3/4/2021,34
+Heber Springs,3/5/2021,31
+Heber Springs,3/6/2021,21
+Heber Springs,3/7/2021,16
+Heber Springs,3/8/2021,27
+Heber Springs,3/9/2021,13
+Heber Springs,3/10/2021,24
+Homewood,3/1/2021,18
+Homewood,3/2/2021,14
+Homewood,3/3/2021,18
+Homewood,3/4/2021,14
+Homewood,3/5/2021,8
+Homewood,3/6/2021,12
+Homewood,3/7/2021,15
+Homewood,3/8/2021,16
+Homewood,3/9/2021,8
+Homewood,3/10/2021,13
+Hwy 215,3/1/2021,33
+Hwy 215,3/2/2021,26
+Hwy 215,3/3/2021,36
+Hwy 215,3/4/2021,22
+Hwy 215,3/5/2021,38
+Hwy 215,3/6/2021,28
+Hwy 215,3/7/2021,11
+Hwy 215,3/8/2021,27
+Hwy 215,3/9/2021,19
+Hwy 215,3/10/2021,35
+Hwy 82,3/1/2021,48
+Hwy 82,3/2/2021,24
+Hwy 82,3/3/2021,46
+Hwy 82,3/4/2021,41
+Hwy 82,3/5/2021,44
+Hwy 82,3/6/2021,35
+Hwy 82,3/7/2021,22
+Hwy 82,3/8/2021,31
+Hwy 82,3/9/2021,21
+Hwy 82,3/10/2021,43
+Indianola,3/1/2021,25
+Indianola,3/2/2021,33
+Indianola,3/3/2021,25
+Indianola,3/4/2021,15
+Indianola,3/5/2021,31
+Indianola,3/6/2021,21
+Indianola,3/7/2021,4
+Indianola,3/8/2021,15
+Indianola,3/9/2021,12
+Indianola,3/10/2021,13
+Jonesboro,3/1/2021,37
+Jonesboro,3/2/2021,27
+Jonesboro,3/3/2021,37
+Jonesboro,3/4/2021,32
+Jonesboro,3/5/2021,34
+Jonesboro,3/6/2021,30
+Jonesboro,3/7/2021,10
+Jonesboro,3/8/2021,28
+Jonesboro,3/9/2021,20
+Jonesboro,3/10/2021,26
+Lamar Ave,3/1/2021,48
+Lamar Ave,3/2/2021,50
+Lamar Ave,3/3/2021,59
+Lamar Ave,3/4/2021,33
+Lamar Ave,3/5/2021,35
+Lamar Ave,3/6/2021,28
+Lamar Ave,3/7/2021,19
+Lamar Ave,3/8/2021,31
+Lamar Ave,3/9/2021,27
+Lamar Ave,3/10/2021,30
+Lanett,3/1/2021,14
+Lanett,3/2/2021,23
+Lanett,3/3/2021,12
+Lanett,3/4/2021,11
+Lanett,3/5/2021,7
+Lanett,3/6/2021,4
+Lanett,3/7/2021,3
+Lanett,3/8/2021,7
+Lanett,3/9/2021,7
+Lanett,3/10/2021,5
+Lawndale,3/1/2021,32
+Lawndale,3/2/2021,18
+Lawndale,3/3/2021,19
+Lawndale,3/4/2021,13
+Lawndale,3/5/2021,25
+Lawndale,3/6/2021,20
+Lawndale,3/7/2021,31
+Lawndale,3/8/2021,32
+Lawndale,3/9/2021,15
+Lawndale,3/10/2021,11
+Lewisburg,3/1/2021,20
+Lewisburg,3/2/2021,31
+Lewisburg,3/3/2021,24
+Lewisburg,3/4/2021,19
+Lewisburg,3/5/2021,26
+Lewisburg,3/6/2021,22
+Lewisburg,3/7/2021,5
+Lewisburg,3/8/2021,14
+Lewisburg,3/9/2021,18
+Lewisburg,3/10/2021,18
+Mattoon,3/1/2021,9
+Mattoon,3/2/2021,8
+Mattoon,3/3/2021,17
+Mattoon,3/4/2021,12
+Mattoon,3/5/2021,16
+Mattoon,3/6/2021,11
+Mattoon,3/7/2021,5
+Mattoon,3/8/2021,9
+Mattoon,3/9/2021,25
+Mattoon,3/10/2021,14
+Medina,3/1/2021,18
+Medina,3/2/2021,16
+Medina,3/3/2021,8
+Medina,3/4/2021,24
+Medina,3/5/2021,12
+Medina,3/6/2021,11
+Medina,3/7/2021,5
+Medina,3/8/2021,14
+Medina,3/9/2021,7
+Medina,3/10/2021,7
+Merritt Blvd,3/1/2021,27
+Merritt Blvd,3/2/2021,23
+Merritt Blvd,3/3/2021,24
+Merritt Blvd,3/4/2021,19
+Merritt Blvd,3/5/2021,19
+Merritt Blvd,3/6/2021,22
+Merritt Blvd,3/7/2021,5
+Merritt Blvd,3/8/2021,14
+Merritt Blvd,3/9/2021,10
+Merritt Blvd,3/10/2021,18
+Mountain Home,3/1/2021,51
+Mountain Home,3/2/2021,38
+Mountain Home,3/3/2021,49
+Mountain Home,3/4/2021,55
+Mountain Home,3/5/2021,52
+Mountain Home,3/6/2021,36
+Mountain Home,3/7/2021,23
+Mountain Home,3/8/2021,37
+Mountain Home,3/9/2021,25
+Mountain Home,3/10/2021,28
+N Prospect Ave,3/1/2021,24
+N Prospect Ave,3/2/2021,8
+N Prospect Ave,3/3/2021,11
+N Prospect Ave,3/4/2021,5
+N Prospect Ave,3/5/2021,11
+N Prospect Ave,3/6/2021,11
+N Prospect Ave,3/7/2021,1
+N Prospect Ave,3/8/2021,15
+N Prospect Ave,3/9/2021,9
+N Prospect Ave,3/10/2021,16
+Natchitoches,3/1/2021,44
+Natchitoches,3/2/2021,27
+Natchitoches,3/3/2021,49
+Natchitoches,3/4/2021,54
+Natchitoches,3/5/2021,20
+Natchitoches,3/6/2021,37
+Natchitoches,3/7/2021,35
+Natchitoches,3/8/2021,20
+Natchitoches,3/9/2021,32
+Natchitoches,3/10/2021,22
+National Hwy,3/1/2021,28
+National Hwy,3/2/2021,30
+National Hwy,3/3/2021,23
+National Hwy,3/4/2021,41
+National Hwy,3/5/2021,30
+National Hwy,3/6/2021,34
+National Hwy,3/7/2021,5
+National Hwy,3/8/2021,25
+National Hwy,3/9/2021,23
+National Hwy,3/10/2021,11
+New Albany,3/1/2021,25
+New Albany,3/2/2021,20
+New Albany,3/3/2021,24
+New Albany,3/4/2021,12
+New Albany,3/5/2021,19
+New Albany,3/6/2021,6
+New Albany,3/7/2021,21
+New Albany,3/8/2021,14
+New Albany,3/9/2021,16
+New Albany,3/10/2021,18
+Newport,3/1/2021,30
+Newport,3/2/2021,16
+Newport,3/3/2021,23
+Newport,3/4/2021,12
+Newport,3/5/2021,16
+Newport,3/6/2021,15
+Newport,3/7/2021,10
+Newport,3/8/2021,13
+Newport,3/9/2021,7
+Newport,3/10/2021,8
+Nick Plaza,3/1/2021,36
+Nick Plaza,3/2/2021,35
+Nick Plaza,3/3/2021,53
+Nick Plaza,3/4/2021,47
+Nick Plaza,3/5/2021,38
+Nick Plaza,3/6/2021,28
+Nick Plaza,3/7/2021,21
+Nick Plaza,3/8/2021,26
+Nick Plaza,3/9/2021,22
+Nick Plaza,3/10/2021,29
+Oltorf,3/1/2021,20
+Oltorf,3/2/2021,14
+Oltorf,3/3/2021,15
+Oltorf,3/4/2021,18
+Oltorf,3/5/2021,16
+Oltorf,3/6/2021,18
+Oltorf,3/7/2021,8
+Oltorf,3/8/2021,22
+Oltorf,3/9/2021,11
+Oltorf,3/10/2021,16
+Perry,3/1/2021,20
+Perry,3/2/2021,29
+Perry,3/3/2021,20
+Perry,3/4/2021,22
+Perry,3/5/2021,15
+Perry,3/6/2021,28
+Perry,3/7/2021,20
+Perry,3/8/2021,12
+Perry,3/9/2021,23
+Perry,3/10/2021,18
+Phenix City,3/1/2021,13
+Phenix City,3/2/2021,18
+Phenix City,3/3/2021,11
+Phenix City,3/4/2021,8
+Phenix City,3/5/2021,18
+Phenix City,3/6/2021,12
+Phenix City,3/7/2021,15
+Phenix City,3/8/2021,8
+Phenix City,3/9/2021,12
+Phenix City,3/10/2021,18
+Pineville,3/1/2021,26
+Pineville,3/2/2021,25
+Pineville,3/3/2021,47
+Pineville,3/4/2021,27
+Pineville,3/5/2021,32
+Pineville,3/6/2021,20
+Pineville,3/7/2021,7
+Pineville,3/8/2021,22
+Pineville,3/9/2021,28
+Pineville,3/10/2021,24
+Plaza Road,3/1/2021,25
+Plaza Road,3/2/2021,25
+Plaza Road,3/3/2021,23
+Plaza Road,3/4/2021,23
+Plaza Road,3/5/2021,26
+Plaza Road,3/6/2021,20
+Plaza Road,3/7/2021,14
+Plaza Road,3/8/2021,13
+Plaza Road,3/9/2021,18
+Plaza Road,3/10/2021,24
+Point Blvd,3/1/2021,22
+Point Blvd,3/2/2021,21
+Point Blvd,3/3/2021,19
+Point Blvd,3/4/2021,15
+Point Blvd,3/5/2021,30
+Point Blvd,3/6/2021,26
+Point Blvd,3/7/2021,15
+Point Blvd,3/8/2021,19
+Point Blvd,3/9/2021,20
+Point Blvd,3/10/2021,14
+Princeton,3/1/2021,36
+Princeton,3/2/2021,33
+Princeton,3/3/2021,36
+Princeton,3/4/2021,27
+Princeton,3/5/2021,35
+Princeton,3/6/2021,24
+Princeton,3/7/2021,7
+Princeton,3/8/2021,24
+Princeton,3/9/2021,31
+Princeton,3/10/2021,21
+Riverwalk,3/1/2021,34
+Riverwalk,3/2/2021,25
+Riverwalk,3/3/2021,23
+Riverwalk,3/4/2021,14
+Riverwalk,3/5/2021,16
+Riverwalk,3/6/2021,8
+Riverwalk,3/7/2021,11
+Riverwalk,3/8/2021,16
+Riverwalk,3/9/2021,7
+Riverwalk,3/10/2021,17
+Rosenberg,3/1/2021,34
+Rosenberg,3/2/2021,28
+Rosenberg,3/3/2021,24
+Rosenberg,3/4/2021,27
+Rosenberg,3/5/2021,26
+Rosenberg,3/6/2021,23
+Rosenberg,3/7/2021,9
+Rosenberg,3/8/2021,24
+Rosenberg,3/9/2021,10
+Rosenberg,3/10/2021,20
+Round Lake,3/1/2021,17
+Round Lake,3/2/2021,20
+Round Lake,3/3/2021,27
+Round Lake,3/4/2021,22
+Round Lake,3/5/2021,18
+Round Lake,3/6/2021,23
+Round Lake,3/7/2021,12
+Round Lake,3/8/2021,20
+Round Lake,3/9/2021,18
+Round Lake,3/10/2021,16
+S Jackson Rd Ste 8,3/1/2021,35
+S Jackson Rd Ste 8,3/2/2021,14
+S Jackson Rd Ste 8,3/3/2021,19
+S Jackson Rd Ste 8,3/4/2021,32
+S Jackson Rd Ste 8,3/5/2021,12
+S Jackson Rd Ste 8,3/6/2021,36
+S Jackson Rd Ste 8,3/7/2021,14
+S Jackson Rd Ste 8,3/8/2021,19
+S Jackson Rd Ste 8,3/9/2021,19
+S Jackson Rd Ste 8,3/10/2021,32
+Salisbury,3/1/2021,21
+Salisbury,3/2/2021,31
+Salisbury,3/3/2021,17
+Salisbury,3/4/2021,9
+Salisbury,3/5/2021,18
+Salisbury,3/6/2021,42
+Salisbury,3/7/2021,20
+Salisbury,3/8/2021,17
+Salisbury,3/9/2021,18
+Salisbury,3/10/2021,20
+San Marcos,3/1/2021,20
+San Marcos,3/2/2021,21
+San Marcos,3/3/2021,24
+San Marcos,3/4/2021,10
+San Marcos,3/5/2021,36
+San Marcos,3/6/2021,21
+San Marcos,3/7/2021,30
+San Marcos,3/8/2021,22
+San Marcos,3/9/2021,15
+San Marcos,3/10/2021,23
+Schillinger,3/1/2021,35
+Schillinger,3/2/2021,37
+Schillinger,3/3/2021,25
+Schillinger,3/4/2021,28
+Schillinger,3/5/2021,33
+Schillinger,3/6/2021,24
+Schillinger,3/7/2021,6
+Schillinger,3/8/2021,20
+Schillinger,3/9/2021,20
+Schillinger,3/10/2021,17
+Silver Hill,3/1/2021,47
+Silver Hill,3/2/2021,37
+Silver Hill,3/3/2021,26
+Silver Hill,3/4/2021,39
+Silver Hill,3/5/2021,13
+Silver Hill,3/6/2021,34
+Silver Hill,3/7/2021,18
+Silver Hill,3/8/2021,29
+Silver Hill,3/9/2021,31
+Silver Hill,3/10/2021,27
+Stan Schlueter,3/1/2021,46
+Stan Schlueter,3/2/2021,41
+Stan Schlueter,3/3/2021,40
+Stan Schlueter,3/4/2021,35
+Stan Schlueter,3/5/2021,49
+Stan Schlueter,3/6/2021,39
+Stan Schlueter,3/7/2021,29
+Stan Schlueter,3/8/2021,47
+Stan Schlueter,3/9/2021,40
+Stan Schlueter,3/10/2021,31
+Sunshine Strip,3/1/2021,42
+Sunshine Strip,3/2/2021,33
+Sunshine Strip,3/3/2021,29
+Sunshine Strip,3/4/2021,27
+Sunshine Strip,3/5/2021,39
+Sunshine Strip,3/6/2021,33
+Sunshine Strip,3/7/2021,6
+Sunshine Strip,3/8/2021,36
+Sunshine Strip,3/9/2021,23
+Sunshine Strip,3/10/2021,20
+Sussex Hwy,3/1/2021,26
+Sussex Hwy,3/2/2021,10
+Sussex Hwy,3/3/2021,10
+Sussex Hwy,3/4/2021,11
+Sussex Hwy,3/5/2021,9
+Sussex Hwy,3/6/2021,23
+Sussex Hwy,3/7/2021,17
+Sussex Hwy,3/8/2021,5
+Sussex Hwy,3/9/2021,16
+Sussex Hwy,3/10/2021,4
+Texarkana,3/1/2021,56
+Texarkana,3/2/2021,45
+Texarkana,3/3/2021,57
+Texarkana,3/4/2021,36
+Texarkana,3/5/2021,38
+Texarkana,3/6/2021,65
+Texarkana,3/7/2021,22
+Texarkana,3/8/2021,41
+Texarkana,3/9/2021,36
+Texarkana,3/10/2021,35
+Urbana,3/1/2021,15
+Urbana,3/2/2021,18
+Urbana,3/3/2021,10
+Urbana,3/4/2021,2
+Urbana,3/5/2021,16
+Urbana,3/6/2021,11
+Urbana,3/7/2021,4
+Urbana,3/8/2021,19
+Urbana,3/9/2021,10
+Urbana,3/10/2021,7
+Uvalde,3/1/2021,20
+Uvalde,3/2/2021,22
+Uvalde,3/3/2021,21
+Uvalde,3/4/2021,26
+Uvalde,3/5/2021,41
+Uvalde,3/6/2021,28
+Uvalde,3/7/2021,15
+Uvalde,3/8/2021,22
+Uvalde,3/9/2021,23
+Uvalde,3/10/2021,30
+Wadsworth,3/1/2021,9
+Wadsworth,3/2/2021,11
+Wadsworth,3/3/2021,6
+Wadsworth,3/4/2021,1
+Wadsworth,3/5/2021,15
+Wadsworth,3/6/2021,12
+Wadsworth,3/7/2021,3
+Wadsworth,3/8/2021,12
+Wadsworth,3/9/2021,9
+Wadsworth,3/10/2021,2
+West Helena,3/1/2021,35
+West Helena,3/2/2021,37
+West Helena,3/3/2021,22
+West Helena,3/4/2021,21
+West Helena,3/5/2021,20
+West Helena,3/6/2021,19
+West Helena,3/7/2021,8
+West Helena,3/8/2021,19
+West Helena,3/9/2021,20
+West Helena,3/10/2021,22
+Westgate Plaza,3/1/2021,24
+Westgate Plaza,3/2/2021,17
+Westgate Plaza,3/3/2021,15
+Westgate Plaza,3/4/2021,20
+Westgate Plaza,3/5/2021,15
+Westgate Plaza,3/6/2021,19
+Westgate Plaza,3/7/2021,11
+Westgate Plaza,3/8/2021,18
+Westgate Plaza,3/9/2021,13
+Westgate Plaza,3/10/2021,20
+Westheimer Commons,3/1/2021,18
+Westheimer Commons,3/2/2021,27
+Westheimer Commons,3/3/2021,35
+Westheimer Commons,3/4/2021,24
+Westheimer Commons,3/5/2021,17
+Westheimer Commons,3/6/2021,24
+Westheimer Commons,3/7/2021,9
+Westheimer Commons,3/8/2021,19
+Westheimer Commons,3/9/2021,20
+Westheimer Commons,3/10/2021,13
+Wheaton,3/1/2021,35
+Wheaton,3/2/2021,24
+Wheaton,3/3/2021,23
+Wheaton,3/4/2021,31
+Wheaton,3/5/2021,11
+Wheaton,3/6/2021,20
+Wheaton,3/7/2021,9
+Wheaton,3/8/2021,25
+Wheaton,3/9/2021,32
+Wheaton,3/10/2021,23
+Woodlawn,3/1/2021,17
+Woodlawn,3/2/2021,12
+Woodlawn,3/3/2021,18
+Woodlawn,3/4/2021,11
+Woodlawn,3/5/2021,15
+Woodlawn,3/6/2021,9
+Woodlawn,3/7/2021,11
+Woodlawn,3/8/2021,16
+Woodlawn,3/9/2021,11
+Woodlawn,3/10/2021,11
